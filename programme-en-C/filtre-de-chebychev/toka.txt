@@ -1,0 +1,26 @@
+Vous trouvez dans ce fichier le module de votre filtre de CHEBYSHEV repondant au gabarit du filtre passe-bas suivant:
+          Amax = 3
+          Amin = 40
+          fc = 30
+          fs = 35
+
+module du filtre:
+Pour f = 3 KHz : |H(jw)| = 0.880782
+Pour f = 6 KHz : |H(jw)| = 0.919521
+Pour f = 9 KHz : |H(jw)| = 0.709529
+Pour f = 12 KHz : |H(jw)| = 0.872129
+Pour f = 15 KHz : |H(jw)| = 0.894851
+Pour f = 18 KHz : |H(jw)| = 0.71202
+Pour f = 21 KHz : |H(jw)| = 0.995076
+Pour f = 24 KHz : |H(jw)| = 0.71202
+Pour f = 27 KHz : |H(jw)| = 0.98053
+Pour f = 30 KHz : |H(jw)| = 0.707946
+Pour f = 60 KHz : |H(jw)| = 3.8246e-06
+Pour f = 90 KHz : |H(jw)| = 4.43147e-08
+Pour f = 120 KHz : |H(jw)| = 2.19113e-09
+Pour f = 150 KHz : |H(jw)| = 2.219e-10
+Pour f = 180 KHz : |H(jw)| = 3.47317e-11
+Pour f = 210 KHz : |H(jw)| = 7.29642e-12
+Pour f = 240 KHz : |H(jw)| = 1.89638e-12
+Pour f = 270 KHz : |H(jw)| = 5.79166e-13
+Pour f = 300 KHz : |H(jw)| = 2.00752e-13
